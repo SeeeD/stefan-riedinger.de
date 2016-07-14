@@ -1,0 +1,28 @@
+# Section title
+title = "Von mir durchgeführte Projekte"
+hyperlink = "Projekte"
+description = "Sollten Sie Interesse an mehr Details zu einzelnen Projekten haben, dann dürfen Sie mich gerne über das <a href=\"#kontakt\">Kontaktformular</a> anschreiben. "
+
+[[projects]]
+    name = "Dönermap.de"
+    folder = "doenermap"
+
+[[projects]]
+    name = "Spiel für Windows 8 und Android"
+    folder = "finde-den-fehler"
+
+[[projects]]
+    name = "Erstellung Facebook API Tool"
+    folder = "facebookapi"
+
+[[projects]]
+    name = "Webseite für Nina Kohler Yoga"
+    folder = "ninakohleryoga"
+
+[[projects]]
+    name = "Webseite der Weinstube Seligmacher"
+    folder = "weinstube"
+
+[[projects]]
+    name = "Zugwecker - Android App"
+    folder = "zugwecker"

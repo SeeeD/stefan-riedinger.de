@@ -1,0 +1,6 @@
+{
+    "editor.renderWhitespace": true,
+    "files.exclude": {
+        "public": true
+    }
+}
